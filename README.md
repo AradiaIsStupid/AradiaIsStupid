@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my stupid github profile
+
+- Pronouns: She/Her ♀️
+- Age: 17
+- Currently learning: C++ 💻
+
+Contact me: [Twitter](https://twitter.com/__Aradia), [Discord](Aradia#0883).
+
