@@ -22,7 +22,7 @@ Welcome to my stupid github profile
 - Currently learning: C++ 💻
 
 Contact me: 
-[Twitter](https://twitter.com/__Aradia).
+[Twitter](https://twitter.com/__Aradia)
 Discord: Aradia#0883
 
 
