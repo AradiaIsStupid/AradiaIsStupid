@@ -21,5 +21,8 @@ Welcome to my stupid github profile
 - Age: 17
 - Currently learning: C++ 💻
 
-Contact me: [Twitter](https://twitter.com/__Aradia), [Discord](Aradia#0883).
+Contact me: 
+[Twitter](https://twitter.com/__Aradia).
+Discord: Aradia#0883
+
 
