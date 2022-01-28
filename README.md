@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 
 ### Welcome to my stupid github profile
 
-- Pronouns: She/Her ♀️
 - Age: 17
-- Currently learning: C++ 💻
+- Currently learning: C++ and rust 💻
 
 Contact me: 
 [Twitter](https://twitter.com/__Aradia), 
-Discord: Aradia#2231
+Discord: Aradia#0161
 
 
