@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Welcome to my stupid github profile
 
 - pronouns: She/Her
-- Age: 17
+- Age: 18
 - Currently learning: C++ and rust 💻
 
 Contact me: 
